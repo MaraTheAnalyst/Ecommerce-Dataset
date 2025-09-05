@@ -1,4 +1,4 @@
-# Ecommerce-Dataset
+# Employee-Dataset
 
 ### Project Overview
 This project focuses on analyzing an Employee Attrition dataset to uncover insights about workforce demographics, salaries, departmental distributions, and attrition trends within the organization. The goal is to help HR teams make data-driven decisions around employee retention, fair compensation, and workload management.
